@@ -1,0 +1,40 @@
+Offset: 16
+(8 , 269549.0 , 66.60000000000001)->  bk1 |  bk5a |  bk6 |  bk17a |  bk10b |  bk10c |  bk11 |  bk8b | 
+(9 , 255486.0 , 85.39999999999999)->  bk5b |  bk2 |  bk17b |  bk20 |  bk9b |  bk9a |  bk15a |  bk16 |  bk19 | 
+(7 , 258328.0 , 99.8)->  bk4 |  bk18 |  bk9c |  bk7 |  bk14c |  bk21 |  bk14a | 
+(9 , 373086.0 , 93.6)->  bk5c |  bk3 |  bk10a |  bk9d |  bk12 |  bk14b |  bk13 |  bk15b |  bk8a | 
+Number Of TSV: 80
+Area Deviation 16.868%
+Power Debiation 14.469%
+Area Increase: 127.177%
+............................
+Offset: 16
+(8 , 306397.0 , 113.59999999999998)->  bk1 |  bk2 |  bk18 |  bk9c |  bk10a |  bk21 |  bk8a |  bk19 | 
+(10 , 308308.0 , 78.40000000000002)->  bk5a |  bk5c |  bk17a |  bk10c |  bk11 |  bk12 |  bk7 |  bk14c |  bk14a |  bk8b | 
+(7 , 249851.0 , 66.8)->  bk5b |  bk4 |  bk10b |  bk9d |  bk14b |  bk13 |  bk16 | 
+(8 , 291893.0 , 86.59999999999998)->  bk6 |  bk3 |  bk17b |  bk20 |  bk9b |  bk9a |  bk15a |  bk15b | 
+Number Of TSV: 80
+Area Deviation 8.142%
+Power Debiation 19.958%
+Area Increase: 127.177%
+............................
+Offset: 16
+(10 , 361179.0 , 99.19999999999999)->  bk5a |  bk5c |  bk4 |  bk17a |  bk9c |  bk9b |  bk10c |  bk14c |  bk21 |  bk8a | 
+(8 , 321440.0 , 84.6)->  bk5b |  bk2 |  bk3 |  bk10a |  bk13 |  bk15b |  bk16 |  bk8b | 
+(6 , 218589.0 , 79.6)->  bk1 |  bk6 |  bk20 |  bk9d |  bk14b |  bk14a | 
+(9 , 255241.0 , 81.99999999999999)->  bk17b |  bk18 |  bk10b |  bk9a |  bk11 |  bk12 |  bk7 |  bk15a |  bk19 | 
+Number Of TSV: 80
+Area Deviation 19.227%
+Power Debiation 8.832%
+Area Increase: 124.618%
+............................
+Offset: 16
+(6 , 256123.0 , 68.6)->  bk6 |  bk17a |  bk21 |  bk14a |  bk15a |  bk8b | 
+(8 , 317471.0 , 96.8)->  bk1 |  bk4 |  bk20 |  bk9d |  bk10c |  bk12 |  bk7 |  bk8a | 
+(10 , 286650.0 , 101.59999999999998)->  bk5b |  bk2 |  bk5c |  bk18 |  bk9c |  bk9b |  bk10a |  bk11 |  bk14c |  bk16 | 
+(9 , 296205.0 , 78.39999999999999)->  bk5a |  bk3 |  bk17b |  bk10b |  bk9a |  bk14b |  bk13 |  bk15b |  bk19 | 
+Number Of TSV: 80
+Area Deviation 0.07635
+Power Debiation 0.15538
+Area Increase: 125.804%
+............................

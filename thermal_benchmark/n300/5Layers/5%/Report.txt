@@ -1,0 +1,9 @@
+Number of Stimulations : 8
+# Number of TSV	Number of Stimulation	Area Increase	Area Deviation	Power Deviation	Percentage
+  1099			1		88.877		0.03672		0.03488			12.5%
+  1308			1		164.299		0.03807		0.04999			12.5%
+  1315			1		167.123		3.353		4.904			12.5%
+  1318			2		167.123		2.911		2.778			25.0%
+  1341			1		164.299		0.03521		0.04494			12.5%
+  1342			1		164.299		0.04932		0.04584			12.5%
+  1358			1		167.123		4.874		2.882			12.5%

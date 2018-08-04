@@ -1,0 +1,11 @@
+Offset: 4
+(18 , 38277.0 , 159.59999999999997)->  sb97 |  sb26 |  sb81 |  sb66 |  sb47 |  sb18 |  sb12 |  sb29 |  sb95 |  sb77 |  sb63 |  sb50 |  sb15 |  sb73 |  sb93 |  sb71 |  sb89 |  sb20 | 
+(22 , 39947.0 , 202.39999999999992)->  sb21 |  sb69 |  sb74 |  sb65 |  sb32 |  sb99 |  sb6 |  sb52 |  sb60 |  sb17 |  sb72 |  sb46 |  sb33 |  sb16 |  sb1 |  sb70 |  sb19 |  sb57 |  sb55 |  sb83 |  sb24 |  sb75 | 
+(22 , 34251.0 , 169.79999999999995)->  sb88 |  sb64 |  sb8 |  sb58 |  sb22 |  sb43 |  sb84 |  sb87 |  sb59 |  sb7 |  sb48 |  sb78 |  sb76 |  sb2 |  sb38 |  sb5 |  sb41 |  sb86 |  sb61 |  sb10 |  sb91 |  sb92 | 
+(19 , 33783.0 , 149.19999999999996)->  sb0 |  sb34 |  sb3 |  sb28 |  sb82 |  sb23 |  sb98 |  sb51 |  sb94 |  sb14 |  sb53 |  sb35 |  sb49 |  sb25 |  sb36 |  sb37 |  sb27 |  sb45 |  sb30 | 
+(19 , 33243.0 , 187.7999999999999)->  sb79 |  sb42 |  sb39 |  sb11 |  sb56 |  sb13 |  sb9 |  sb54 |  sb68 |  sb62 |  sb96 |  sb67 |  sb31 |  sb44 |  sb80 |  sb40 |  sb4 |  sb85 |  sb90 | 
+Number Of TSV: 422
+Area Deviation 0.11272
+Power Debiation 0.1103
+Area Increase: 145.857%
+............................

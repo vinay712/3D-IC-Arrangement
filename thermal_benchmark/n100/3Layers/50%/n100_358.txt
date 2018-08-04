@@ -1,0 +1,18 @@
+Offset: 3
+(30 , 53504.0 , 233.39999999999984)->  sb79 |  sb64 |  sb8 |  sb58 |  sb74 |  sb28 |  sb87 |  sb23 |  sb59 |  sb95 |  sb54 |  sb60 |  sb17 |  sb78 |  sb72 |  sb46 |  sb96 |  sb1 |  sb44 |  sb49 |  sb70 |  sb93 |  sb86 |  sb61 |  sb24 |  sb90 |  sb45 |  sb91 |  sb30 |  sb92 | 
+(33 , 61975.0 , 377.00000000000017)->  sb21 |  sb81 |  sb42 |  sb39 |  sb66 |  sb47 |  sb18 |  sb69 |  sb12 |  sb29 |  sb3 |  sb43 |  sb32 |  sb48 |  sb63 |  sb98 |  sb76 |  sb2 |  sb35 |  sb50 |  sb33 |  sb15 |  sb25 |  sb80 |  sb38 |  sb36 |  sb5 |  sb71 |  sb85 |  sb37 |  sb10 |  sb55 |  sb20 | 
+(37 , 64022.0 , 258.39999999999986)->  sb0 |  sb97 |  sb26 |  sb34 |  sb88 |  sb65 |  sb11 |  sb22 |  sb99 |  sb6 |  sb84 |  sb82 |  sb52 |  sb56 |  sb7 |  sb13 |  sb9 |  sb77 |  sb51 |  sb94 |  sb14 |  sb53 |  sb68 |  sb62 |  sb67 |  sb16 |  sb31 |  sb73 |  sb40 |  sb41 |  sb19 |  sb4 |  sb89 |  sb57 |  sb83 |  sb75 |  sb27 | 
+Number Of TSV: 358
+Area Deviation 0.0761
+Power Debiation 0.21629
+Area Increase: 66.6%
+............................
+Offset: 4
+(36 , 64294.0 , 315.3999999999999)->  sb97 |  sb26 |  sb81 |  sb79 |  sb88 |  sb64 |  sb65 |  sb22 |  sb99 |  sb6 |  sb82 |  sb95 |  sb7 |  sb48 |  sb77 |  sb54 |  sb78 |  sb94 |  sb14 |  sb68 |  sb62 |  sb50 |  sb16 |  sb15 |  sb49 |  sb93 |  sb38 |  sb5 |  sb40 |  sb71 |  sb4 |  sb57 |  sb37 |  sb75 |  sb45 |  sb20 | 
+(34 , 63435.0 , 290.99999999999994)->  sb34 |  sb42 |  sb39 |  sb66 |  sb47 |  sb18 |  sb12 |  sb29 |  sb43 |  sb32 |  sb28 |  sb87 |  sb52 |  sb23 |  sb56 |  sb63 |  sb53 |  sb96 |  sb67 |  sb31 |  sb73 |  sb44 |  sb70 |  sb80 |  sb41 |  sb19 |  sb86 |  sb61 |  sb10 |  sb24 |  sb90 |  sb27 |  sb91 |  sb92 | 
+(30 , 51772.0 , 262.39999999999986)->  sb0 |  sb21 |  sb69 |  sb3 |  sb8 |  sb58 |  sb74 |  sb11 |  sb84 |  sb59 |  sb13 |  sb9 |  sb60 |  sb17 |  sb98 |  sb51 |  sb76 |  sb2 |  sb72 |  sb46 |  sb35 |  sb33 |  sb1 |  sb25 |  sb36 |  sb85 |  sb89 |  sb55 |  sb83 |  sb30 | 
+Number Of TSV: 358
+Area Deviation 0.07455
+Power Debiation 0.07479
+Area Increase: 47.514%
+............................

@@ -1,0 +1,10 @@
+Offset: 10
+(8 , 318892.0 , 82.59999999999998)->  bk5b |  bk18 |  bk17a |  bk20 |  bk9c |  bk14b |  bk15b |  bk19 | 
+(9 , 312081.0 , 93.6)->  bk2 |  bk17b |  bk10a |  bk10c |  bk9a |  bk12 |  bk16 |  bk8a |  bk8b | 
+(8 , 264894.0 , 81.19999999999999)->  bk5a |  bk4 |  bk3 |  bk9b |  bk11 |  bk14c |  bk21 |  bk15a | 
+(8 , 260582.0 , 88.0)->  bk1 |  bk5c |  bk6 |  bk10b |  bk9d |  bk7 |  bk13 |  bk14a | 
+Number Of TSV: 49
+Area Deviation 9.176%
+Power Debiation 5.67%
+Area Increase: 127.177%
+............................

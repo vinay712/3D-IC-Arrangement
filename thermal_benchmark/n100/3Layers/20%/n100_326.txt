@@ -1,0 +1,18 @@
+Offset: 3
+(37 , 71794.0 , 334.60000000000014)->  sb0 |  sb97 |  sb26 |  sb88 |  sb42 |  sb39 |  sb66 |  sb47 |  sb18 |  sb69 |  sb12 |  sb29 |  sb3 |  sb43 |  sb32 |  sb28 |  sb84 |  sb48 |  sb94 |  sb14 |  sb68 |  sb62 |  sb72 |  sb46 |  sb15 |  sb73 |  sb44 |  sb70 |  sb40 |  sb4 |  sb10 |  sb55 |  sb83 |  sb24 |  sb75 |  sb90 |  sb30 | 
+(32 , 59184.0 , 255.19999999999976)->  sb79 |  sb64 |  sb8 |  sb58 |  sb74 |  sb65 |  sb11 |  sb22 |  sb99 |  sb6 |  sb82 |  sb87 |  sb52 |  sb23 |  sb59 |  sb95 |  sb7 |  sb77 |  sb53 |  sb35 |  sb96 |  sb1 |  sb49 |  sb93 |  sb36 |  sb19 |  sb85 |  sb89 |  sb57 |  sb27 |  sb20 |  sb92 | 
+(31 , 48523.0 , 279.0)->  sb21 |  sb81 |  sb34 |  sb56 |  sb13 |  sb9 |  sb63 |  sb54 |  sb60 |  sb17 |  sb78 |  sb98 |  sb51 |  sb76 |  sb2 |  sb50 |  sb67 |  sb33 |  sb16 |  sb31 |  sb25 |  sb80 |  sb38 |  sb5 |  sb71 |  sb41 |  sb86 |  sb61 |  sb37 |  sb45 |  sb91 | 
+Number Of TSV: 326
+Area Deviation 15.896%
+Power Debiation 11.488%
+Area Increase: 25.934%
+............................
+Offset: 3
+(28 , 52509.0 , 248.39999999999984)->  sb21 |  sb81 |  sb65 |  sb11 |  sb22 |  sb43 |  sb32 |  sb23 |  sb7 |  sb98 |  sb53 |  sb68 |  sb62 |  sb35 |  sb67 |  sb31 |  sb15 |  sb73 |  sb44 |  sb49 |  sb70 |  sb38 |  sb5 |  sb40 |  sb37 |  sb24 |  sb75 |  sb20 | 
+(43 , 75396.0 , 355.00000000000006)->  sb0 |  sb97 |  sb26 |  sb79 |  sb88 |  sb64 |  sb8 |  sb58 |  sb74 |  sb99 |  sb6 |  sb28 |  sb52 |  sb59 |  sb95 |  sb77 |  sb63 |  sb54 |  sb60 |  sb17 |  sb78 |  sb51 |  sb94 |  sb14 |  sb2 |  sb72 |  sb46 |  sb96 |  sb50 |  sb33 |  sb25 |  sb80 |  sb71 |  sb19 |  sb4 |  sb86 |  sb61 |  sb89 |  sb57 |  sb10 |  sb55 |  sb90 |  sb27 | 
+(29 , 51596.0 , 265.39999999999986)->  sb34 |  sb42 |  sb39 |  sb66 |  sb47 |  sb18 |  sb69 |  sb12 |  sb29 |  sb3 |  sb84 |  sb82 |  sb87 |  sb56 |  sb48 |  sb13 |  sb9 |  sb76 |  sb16 |  sb1 |  sb93 |  sb36 |  sb41 |  sb85 |  sb83 |  sb45 |  sb91 |  sb30 |  sb92 | 
+Number Of TSV: 326
+Area Deviation 18.402%
+Power Debiation 16.147%
+Area Increase: 27.625%
+............................

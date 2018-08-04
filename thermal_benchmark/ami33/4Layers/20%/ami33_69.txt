@@ -1,0 +1,40 @@
+Offset: 16
+(7 , 220892.0 , 83.99999999999999)->  bk1 |  bk5b |  bk2 |  bk3 |  bk9d |  bk7 |  bk8a | 
+(7 , 311885.0 , 98.2)->  bk6 |  bk4 |  bk9c |  bk11 |  bk13 |  bk16 |  bk8b | 
+(12 , 347214.0 , 100.19999999999999)->  bk5a |  bk5c |  bk18 |  bk9b |  bk10a |  bk10b |  bk10c |  bk9a |  bk12 |  bk14c |  bk21 |  bk15a | 
+(7 , 276458.0 , 63.00000000000001)->  bk17b |  bk17a |  bk20 |  bk14b |  bk14a |  bk15b |  bk19 | 
+Number Of TSV: 69
+Area Deviation 16.139%
+Power Debiation 17.206%
+Area Increase: 127.177%
+............................
+Offset: 16
+(10 , 348292.0 , 101.19999999999997)->  bk5b |  bk2 |  bk4 |  bk17b |  bk18 |  bk17a |  bk10b |  bk9d |  bk10c |  bk15a | 
+(11 , 338688.0 , 102.8)->  bk1 |  bk5a |  bk5c |  bk6 |  bk9b |  bk12 |  bk14c |  bk15b |  bk16 |  bk8b |  bk19 | 
+(6 , 239806.0 , 64.4)->  bk9c |  bk10a |  bk11 |  bk7 |  bk13 |  bk8a | 
+(6 , 229663.0 , 77.0)->  bk3 |  bk20 |  bk9a |  bk14b |  bk21 |  bk14a | 
+Number Of TSV: 69
+Area Deviation 18.886%
+Power Debiation 18.855%
+Area Increase: 121.482%
+............................
+Offset: 16
+(9 , 306103.0 , 59.40000000000001)->  bk1 |  bk5b |  bk17b |  bk18 |  bk14b |  bk15a |  bk15b |  bk8b |  bk19 | 
+(9 , 335209.0 , 105.0)->  bk5a |  bk6 |  bk4 |  bk3 |  bk17a |  bk10a |  bk10c |  bk11 |  bk14c | 
+(8 , 265237.0 , 95.8)->  bk2 |  bk20 |  bk9b |  bk10b |  bk7 |  bk13 |  bk14a |  bk16 | 
+(7 , 249900.0 , 85.2)->  bk5c |  bk9c |  bk9d |  bk9a |  bk12 |  bk21 |  bk8a | 
+Number Of TSV: 69
+Area Deviation 11.629%
+Power Debiation 19.762%
+Area Increase: 124.618%
+............................
+Offset: 16
+(7 , 335013.0 , 69.6)->  bk1 |  bk5b |  bk17b |  bk20 |  bk12 |  bk13 |  bk15b | 
+(10 , 278810.0 , 70.0)->  bk5a |  bk18 |  bk17a |  bk10b |  bk9d |  bk10c |  bk14c |  bk21 |  bk8a |  bk19 | 
+(8 , 254408.0 , 100.8)->  bk2 |  bk6 |  bk11 |  bk14b |  bk14a |  bk15a |  bk16 |  bk8b | 
+(8 , 288218.0 , 104.99999999999999)->  bk5c |  bk4 |  bk3 |  bk9c |  bk9b |  bk10a |  bk9a |  bk7 | 
+Number Of TSV: 69
+Area Deviation 0.10111
+Power Debiation 0.19244
+Area Increase: 125.804%
+............................

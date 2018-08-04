@@ -1,0 +1,34 @@
+UCLA nets 1.0
+# Created      : Thu Nov 09 18:23:24 PST 2000
+# User         : huaizhi@olympus
+# Platform     : SunOS 5.6 sparc
+
+NumNets : 4
+NumPins : 522
+
+NetDegree : 4
+# The pad/pins in this net are of type "PWR"
+a B	: %-50.0 %33.3
+b B	: %8.8 %50.0
+c B	: %38.2 %50.0
+d B	: %26.9 %-50.0
+
+NetDegree : 3
+# The pad/pins in this net are of type "PWR"
+a B	: %-50.0 %33.3
+g B	: %8.8 %50.0
+f B	: %38.2 %50.0
+
+NetDegree : 3
+# The pad/pins in this net are of type "PWR"
+f B	: %-50.0 %33.3
+e B	: %8.8 %50.0
+d B	: %26.9 %-50.0
+
+
+NetDegree : 4
+# The pad/pins in this net are of type "PWR"
+b B	: %-50.0 %33.3
+a B	: %8.8 %50.0
+g B	: %26.9 %-50.0
+e B	: %26.9 %-50.0

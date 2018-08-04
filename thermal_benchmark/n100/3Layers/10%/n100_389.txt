@@ -1,0 +1,36 @@
+Offset: 11
+(36 , 63984.0 , 301.1999999999998)->  sb26 |  sb88 |  sb42 |  sb47 |  sb12 |  sb69 |  sb58 |  sb43 |  sb32 |  sb99 |  sb84 |  sb82 |  sb23 |  sb59 |  sb7 |  sb13 |  sb98 |  sb94 |  sb14 |  sb76 |  sb2 |  sb62 |  sb16 |  sb1 |  sb44 |  sb49 |  sb80 |  sb93 |  sb38 |  sb71 |  sb19 |  sb4 |  sb10 |  sb45 |  sb20 |  sb92 | 
+(29 , 57558.0 , 274.1999999999999)->  sb21 |  sb81 |  sb8 |  sb74 |  sb65 |  sb52 |  sb77 |  sb54 |  sb60 |  sb17 |  sb78 |  sb51 |  sb35 |  sb50 |  sb67 |  sb33 |  sb15 |  sb73 |  sb70 |  sb25 |  sb5 |  sb40 |  sb86 |  sb85 |  sb55 |  sb24 |  sb90 |  sb27 |  sb91 | 
+(35 , 57959.0 , 293.4)->  sb0 |  sb97 |  sb79 |  sb34 |  sb39 |  sb66 |  sb18 |  sb29 |  sb3 |  sb64 |  sb11 |  sb22 |  sb6 |  sb28 |  sb87 |  sb95 |  sb56 |  sb48 |  sb9 |  sb63 |  sb53 |  sb68 |  sb72 |  sb46 |  sb96 |  sb31 |  sb36 |  sb41 |  sb61 |  sb89 |  sb57 |  sb37 |  sb83 |  sb75 |  sb30 | 
+Number Of TSV: 389
+Area Deviation 4.912%
+Power Debiation 3.918%
+Area Increase: 13.418%
+............................
+Offset: 9
+(31 , 53222.0 , 301.59999999999997)->  sb0 |  sb97 |  sb21 |  sb81 |  sb79 |  sb39 |  sb69 |  sb3 |  sb22 |  sb84 |  sb82 |  sb23 |  sb60 |  sb17 |  sb94 |  sb14 |  sb53 |  sb46 |  sb35 |  sb50 |  sb70 |  sb25 |  sb93 |  sb38 |  sb71 |  sb4 |  sb57 |  sb10 |  sb27 |  sb91 |  sb20 | 
+(33 , 60819.0 , 273.99999999999983)->  sb34 |  sb42 |  sb66 |  sb18 |  sb47 |  sb64 |  sb74 |  sb65 |  sb43 |  sb87 |  sb52 |  sb95 |  sb9 |  sb54 |  sb78 |  sb98 |  sb51 |  sb2 |  sb96 |  sb33 |  sb16 |  sb1 |  sb73 |  sb80 |  sb5 |  sb41 |  sb86 |  sb85 |  sb37 |  sb55 |  sb83 |  sb24 |  sb75 | 
+(36 , 65460.0 , 293.1999999999998)->  sb26 |  sb88 |  sb12 |  sb29 |  sb8 |  sb58 |  sb11 |  sb32 |  sb99 |  sb6 |  sb28 |  sb59 |  sb56 |  sb7 |  sb48 |  sb13 |  sb77 |  sb63 |  sb76 |  sb68 |  sb62 |  sb72 |  sb67 |  sb31 |  sb15 |  sb44 |  sb49 |  sb36 |  sb40 |  sb19 |  sb61 |  sb89 |  sb90 |  sb45 |  sb30 |  sb92 | 
+Number Of TSV: 389
+Area Deviation 8.431%
+Power Debiation 3.989%
+Area Increase: 13.418%
+............................
+Offset: 10
+(30 , 51453.0 , 254.9999999999998)->  sb97 |  sb26 |  sb29 |  sb69 |  sb64 |  sb22 |  sb28 |  sb87 |  sb52 |  sb59 |  sb60 |  sb17 |  sb78 |  sb94 |  sb2 |  sb35 |  sb33 |  sb1 |  sb70 |  sb25 |  sb93 |  sb36 |  sb41 |  sb86 |  sb57 |  sb10 |  sb55 |  sb24 |  sb91 |  sb20 | 
+(34 , 64068.0 , 314.2)->  sb21 |  sb81 |  sb42 |  sb39 |  sb3 |  sb8 |  sb58 |  sb74 |  sb11 |  sb32 |  sb99 |  sb82 |  sb23 |  sb95 |  sb56 |  sb7 |  sb13 |  sb54 |  sb51 |  sb14 |  sb72 |  sb96 |  sb50 |  sb73 |  sb80 |  sb40 |  sb19 |  sb4 |  sb61 |  sb85 |  sb75 |  sb90 |  sb45 |  sb92 | 
+(36 , 63980.0 , 299.5999999999999)->  sb0 |  sb79 |  sb34 |  sb88 |  sb66 |  sb18 |  sb47 |  sb12 |  sb65 |  sb43 |  sb6 |  sb84 |  sb48 |  sb9 |  sb77 |  sb63 |  sb98 |  sb76 |  sb53 |  sb68 |  sb62 |  sb46 |  sb67 |  sb16 |  sb31 |  sb15 |  sb44 |  sb49 |  sb38 |  sb5 |  sb71 |  sb89 |  sb37 |  sb83 |  sb27 |  sb30 | 
+Number Of TSV: 389
+Area Deviation 9.904%
+Power Debiation 8.695%
+Area Increase: 12.489%
+............................
+Offset: 9
+(32 , 61276.0 , 270.79999999999984)->  sb26 |  sb79 |  sb88 |  sb66 |  sb18 |  sb47 |  sb69 |  sb8 |  sb58 |  sb11 |  sb43 |  sb84 |  sb23 |  sb77 |  sb54 |  sb60 |  sb2 |  sb96 |  sb67 |  sb1 |  sb44 |  sb49 |  sb70 |  sb41 |  sb4 |  sb86 |  sb83 |  sb24 |  sb90 |  sb27 |  sb91 |  sb30 | 
+(33 , 58181.0 , 281.1999999999999)->  sb0 |  sb97 |  sb34 |  sb42 |  sb3 |  sb65 |  sb22 |  sb99 |  sb6 |  sb7 |  sb9 |  sb17 |  sb51 |  sb68 |  sb62 |  sb72 |  sb35 |  sb50 |  sb33 |  sb16 |  sb31 |  sb15 |  sb73 |  sb25 |  sb5 |  sb40 |  sb71 |  sb61 |  sb85 |  sb89 |  sb57 |  sb10 |  sb92 | 
+(35 , 60044.0 , 316.8)->  sb21 |  sb81 |  sb39 |  sb12 |  sb29 |  sb64 |  sb74 |  sb32 |  sb28 |  sb82 |  sb87 |  sb52 |  sb59 |  sb95 |  sb56 |  sb48 |  sb13 |  sb63 |  sb78 |  sb98 |  sb94 |  sb14 |  sb76 |  sb53 |  sb46 |  sb80 |  sb93 |  sb38 |  sb36 |  sb19 |  sb37 |  sb55 |  sb75 |  sb45 |  sb20 | 
+Number Of TSV: 389
+Area Deviation 2.126%
+Power Debiation 6.801%
+Area Increase: 13.929%
+............................

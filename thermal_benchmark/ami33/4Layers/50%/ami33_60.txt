@@ -1,0 +1,40 @@
+Offset: 12
+(9 , 241472.0 , 72.2)->  bk5a |  bk5c |  bk17b |  bk18 |  bk9a |  bk14c |  bk21 |  bk14a |  bk19 | 
+(7 , 133280.0 , 34.2)->  bk5b |  bk9b |  bk10b |  bk10c |  bk11 |  bk15a |  bk16 | 
+(6 , 302526.0 , 118.2)->  bk6 |  bk4 |  bk3 |  bk12 |  bk7 |  bk13 | 
+(11 , 479171.0 , 120.79999999999997)->  bk1 |  bk2 |  bk17a |  bk20 |  bk9c |  bk10a |  bk9d |  bk14b |  bk15b |  bk8a |  bk8b | 
+Number Of TSV: 60
+Area Deviation 43.359%
+Power Debiation 41.437%
+Area Increase: 127.177%
+............................
+Offset: 12
+(9 , 280574.0 , 98.59999999999998)->  bk5a |  bk4 |  bk3 |  bk17b |  bk10c |  bk14b |  bk7 |  bk15b |  bk19 | 
+(4 , 150381.0 , 26.8)->  bk10a |  bk11 |  bk13 |  bk16 | 
+(11 , 342804.0 , 138.99999999999994)->  bk1 |  bk2 |  bk6 |  bk18 |  bk9b |  bk10b |  bk9d |  bk9a |  bk12 |  bk14a |  bk15a | 
+(9 , 382690.0 , 81.0)->  bk5b |  bk5c |  bk17a |  bk20 |  bk9c |  bk14c |  bk21 |  bk8a |  bk8b | 
+Number Of TSV: 60
+Area Deviation 30.43%
+Power Debiation 46.673%
+Area Increase: 127.177%
+............................
+Offset: 12
+(8 , 219961.0 , 82.0)->  bk1 |  bk5a |  bk6 |  bk17b |  bk9a |  bk7 |  bk14a |  bk16 | 
+(7 , 317520.0 , 100.79999999999998)->  bk5b |  bk4 |  bk3 |  bk18 |  bk12 |  bk21 |  bk15b | 
+(9 , 387051.0 , 81.6)->  bk17a |  bk20 |  bk9c |  bk10a |  bk9d |  bk14b |  bk15a |  bk8a |  bk8b | 
+(9 , 231917.0 , 81.0)->  bk2 |  bk5c |  bk9b |  bk10b |  bk10c |  bk11 |  bk13 |  bk14c |  bk19 | 
+Number Of TSV: 60
+Area Deviation 23.492%
+Power Debiation 9.67%
+Area Increase: 127.177%
+............................
+Offset: 12
+(11 , 302134.0 , 123.79999999999997)->  bk5b |  bk6 |  bk9c |  bk10a |  bk10b |  bk11 |  bk7 |  bk14a |  bk15b |  bk16 |  bk19 | 
+(10 , 366079.0 , 85.6)->  bk1 |  bk4 |  bk3 |  bk10c |  bk9a |  bk14b |  bk14c |  bk15a |  bk8a |  bk8b | 
+(5 , 249900.0 , 63.60000000000001)->  bk2 |  bk17a |  bk20 |  bk9d |  bk13 | 
+(7 , 238336.0 , 72.39999999999999)->  bk5a |  bk5c |  bk17b |  bk18 |  bk9b |  bk12 |  bk21 | 
+Number Of TSV: 60
+Area Deviation 17.474%
+Power Debiation 26.631%
+Area Increase: 127.177%
+............................

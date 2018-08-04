@@ -1,0 +1,6 @@
+Number of Graph Points: 4
+# Number of TSVs 	Area Deviation 	Power Deviation 	Increase Area
+ 164			4.977		4.518		6.993
+ 233			4.829		3.061		6.993
+ 237			2.278		4.917		6.993
+ 257			0.0283			0.04482			2.83

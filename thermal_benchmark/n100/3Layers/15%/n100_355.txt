@@ -1,0 +1,18 @@
+Offset: 4
+(37 , 59177.0 , 300.3999999999999)->  sb0 |  sb69 |  sb64 |  sb11 |  sb43 |  sb82 |  sb87 |  sb52 |  sb23 |  sb59 |  sb95 |  sb48 |  sb13 |  sb9 |  sb54 |  sb51 |  sb76 |  sb2 |  sb68 |  sb62 |  sb33 |  sb16 |  sb31 |  sb15 |  sb44 |  sb70 |  sb25 |  sb93 |  sb40 |  sb41 |  sb4 |  sb89 |  sb57 |  sb10 |  sb83 |  sb75 |  sb30 | 
+(31 , 67175.0 , 281.39999999999986)->  sb21 |  sb81 |  sb79 |  sb34 |  sb88 |  sb42 |  sb39 |  sb66 |  sb47 |  sb18 |  sb12 |  sb29 |  sb8 |  sb58 |  sb74 |  sb22 |  sb28 |  sb77 |  sb60 |  sb17 |  sb53 |  sb72 |  sb46 |  sb96 |  sb67 |  sb1 |  sb49 |  sb80 |  sb36 |  sb71 |  sb19 | 
+(32 , 53149.0 , 286.9999999999999)->  sb97 |  sb26 |  sb3 |  sb65 |  sb32 |  sb99 |  sb6 |  sb84 |  sb56 |  sb7 |  sb63 |  sb78 |  sb98 |  sb94 |  sb14 |  sb35 |  sb50 |  sb73 |  sb38 |  sb5 |  sb86 |  sb61 |  sb85 |  sb37 |  sb55 |  sb24 |  sb90 |  sb27 |  sb45 |  sb91 |  sb20 |  sb92 | 
+Number Of TSV: 355
+Area Deviation 9.601%
+Power Debiation 2.753%
+Area Increase: 12.489%
+............................
+Offset: 4
+(34 , 66929.0 , 328.59999999999997)->  sb97 |  sb26 |  sb42 |  sb39 |  sb69 |  sb43 |  sb99 |  sb6 |  sb82 |  sb87 |  sb52 |  sb23 |  sb48 |  sb77 |  sb54 |  sb94 |  sb14 |  sb50 |  sb31 |  sb15 |  sb1 |  sb73 |  sb44 |  sb25 |  sb38 |  sb5 |  sb40 |  sb71 |  sb86 |  sb61 |  sb57 |  sb37 |  sb24 |  sb30 | 
+(36 , 62831.0 , 301.5999999999999)->  sb21 |  sb81 |  sb34 |  sb88 |  sb66 |  sb47 |  sb18 |  sb12 |  sb29 |  sb64 |  sb8 |  sb58 |  sb11 |  sb32 |  sb56 |  sb7 |  sb78 |  sb51 |  sb72 |  sb46 |  sb96 |  sb67 |  sb33 |  sb16 |  sb49 |  sb70 |  sb93 |  sb41 |  sb85 |  sb89 |  sb83 |  sb75 |  sb27 |  sb45 |  sb20 |  sb92 | 
+(30 , 49741.0 , 238.59999999999982)->  sb0 |  sb79 |  sb3 |  sb74 |  sb65 |  sb22 |  sb28 |  sb84 |  sb59 |  sb95 |  sb13 |  sb9 |  sb63 |  sb60 |  sb17 |  sb98 |  sb76 |  sb53 |  sb2 |  sb68 |  sb62 |  sb35 |  sb80 |  sb36 |  sb19 |  sb4 |  sb10 |  sb55 |  sb90 |  sb91 | 
+Number Of TSV: 355
+Area Deviation 0.12251
+Power Debiation 0.13021
+Area Increase: 19.638%
+............................

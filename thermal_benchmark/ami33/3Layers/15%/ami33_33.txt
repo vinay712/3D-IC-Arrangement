@@ -1,0 +1,72 @@
+Offset: 9
+(8 , 307622.0 , 116.39999999999998)->  bk4 |  bk3 |  bk10c |  bk12 |  bk14b |  bk7 |  bk21 |  bk15a | 
+(10 , 418950.0 , 109.39999999999999)->  bk5c |  bk6 |  bk17b |  bk18 |  bk20 |  bk17a |  bk9c |  bk9d |  bk13 |  bk14c | 
+(15 , 429877.0 , 119.60000000000001)->  bk1 |  bk5b |  bk5a |  bk2 |  bk9b |  bk10a |  bk10b |  bk9a |  bk11 |  bk14a |  bk15b |  bk16 |  bk8a |  bk8b |  bk19 | 
+Number Of TSV: 33
+Area Deviation 14.329%
+Power Debiation 3.7%
+Area Increase: 19.957%
+............................
+Offset: 10
+(10 , 436492.0 , 126.79999999999997)->  bk5c |  bk6 |  bk17b |  bk18 |  bk17a |  bk20 |  bk12 |  bk7 |  bk21 |  bk15b | 
+(12 , 340452.0 , 123.99999999999997)->  bk4 |  bk3 |  bk9c |  bk9b |  bk10a |  bk9d |  bk10c |  bk9a |  bk11 |  bk14b |  bk14c |  bk19 | 
+(11 , 379505.0 , 94.60000000000001)->  bk1 |  bk5b |  bk5a |  bk2 |  bk10b |  bk13 |  bk14a |  bk15a |  bk16 |  bk8a |  bk8b | 
+Number Of TSV: 33
+Area Deviation 10.23%
+Power Debiation 12.65%
+Area Increase: 20.503%
+............................
+Offset: 9
+(11 , 415716.0 , 100.79999999999998)->  bk1 |  bk5b |  bk5a |  bk18 |  bk20 |  bk17a |  bk9b |  bk10a |  bk9d |  bk12 |  bk14b | 
+(12 , 412482.0 , 115.39999999999998)->  bk4 |  bk3 |  bk17b |  bk10b |  bk11 |  bk21 |  bk14a |  bk15a |  bk16 |  bk8a |  bk8b |  bk19 | 
+(10 , 328251.0 , 129.20000000000002)->  bk2 |  bk5c |  bk6 |  bk9c |  bk10c |  bk9a |  bk7 |  bk13 |  bk14c |  bk15b | 
+Number Of TSV: 33
+Area Deviation 10.504%
+Power Debiation 10.072%
+Area Increase: 20.503%
+............................
+Offset: 10
+(10 , 366226.0 , 114.6)->  bk1 |  bk5a |  bk4 |  bk9c |  bk9b |  bk11 |  bk12 |  bk14b |  bk14c |  bk15b | 
+(9 , 335405.0 , 100.19999999999997)->  bk2 |  bk17b |  bk18 |  bk17a |  bk20 |  bk10a |  bk10b |  bk10c |  bk7 | 
+(14 , 454818.0 , 130.6)->  bk5b |  bk5c |  bk6 |  bk3 |  bk9d |  bk9a |  bk13 |  bk21 |  bk14a |  bk15a |  bk16 |  bk8a |  bk8b |  bk19 | 
+Number Of TSV: 33
+Area Deviation 13.131%
+Power Debiation 10.784%
+Area Increase: 20.986%
+............................
+Offset: 9
+(10 , 326046.0 , 127.99999999999999)->  bk1 |  bk5b |  bk5a |  bk5c |  bk6 |  bk9c |  bk10b |  bk9d |  bk12 |  bk14b | 
+(11 , 405377.0 , 122.39999999999999)->  bk2 |  bk4 |  bk18 |  bk20 |  bk17a |  bk9b |  bk10a |  bk10c |  bk9a |  bk7 |  bk14c | 
+(12 , 425026.0 , 94.99999999999999)->  bk3 |  bk17b |  bk11 |  bk13 |  bk21 |  bk14a |  bk15a |  bk15b |  bk16 |  bk8a |  bk8b |  bk19 | 
+Number Of TSV: 33
+Area Deviation 11.1%
+Power Debiation 12.524%
+Area Increase: 15.838%
+............................
+Offset: 10
+(11 , 442029.0 , 127.60000000000001)->  bk1 |  bk5b |  bk5c |  bk6 |  bk4 |  bk9b |  bk10a |  bk14b |  bk13 |  bk14c |  bk21 | 
+(11 , 341530.0 , 111.19999999999999)->  bk5a |  bk2 |  bk17b |  bk9d |  bk12 |  bk14a |  bk15b |  bk16 |  bk8a |  bk8b |  bk19 | 
+(11 , 372890.0 , 106.59999999999998)->  bk3 |  bk18 |  bk17a |  bk20 |  bk9c |  bk10b |  bk10c |  bk9a |  bk11 |  bk7 |  bk15a | 
+Number Of TSV: 33
+Area Deviation 10.891%
+Power Debiation 7.828%
+Area Increase: 18.864%
+............................
+Offset: 16
+(12 , 344078.0 , 98.8)->  bk1 |  bk5b |  bk5a |  bk17b |  bk10c |  bk12 |  bk7 |  bk14a |  bk16 |  bk8a |  bk8b |  bk19 | 
+(10 , 394009.0 , 120.79999999999997)->  bk2 |  bk17a |  bk20 |  bk9c |  bk9b |  bk10b |  bk9d |  bk11 |  bk13 |  bk21 | 
+(11 , 418362.0 , 125.79999999999998)->  bk5c |  bk6 |  bk4 |  bk3 |  bk18 |  bk10a |  bk9a |  bk14b |  bk14c |  bk15a |  bk15b | 
+Number Of TSV: 33
+Area Deviation 8.021%
+Power Debiation 10.187%
+Area Increase: 18.864%
+............................
+Offset: 10
+(12 , 449624.0 , 131.99999999999994)->  bk5c |  bk6 |  bk3 |  bk11 |  bk12 |  bk14b |  bk21 |  bk15a |  bk15b |  bk16 |  bk8a |  bk8b | 
+(11 , 349762.0 , 108.8)->  bk1 |  bk5b |  bk5a |  bk4 |  bk9c |  bk9b |  bk9d |  bk13 |  bk14c |  bk14a |  bk19 | 
+(10 , 357063.0 , 104.59999999999997)->  bk2 |  bk17b |  bk18 |  bk17a |  bk20 |  bk10a |  bk10b |  bk10c |  bk9a |  bk7 | 
+Number Of TSV: 33
+Area Deviation 11.791%
+Power Debiation 10.465%
+Area Increase: 18.533%
+............................

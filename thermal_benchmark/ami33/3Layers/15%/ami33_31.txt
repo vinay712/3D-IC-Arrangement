@@ -1,0 +1,36 @@
+Offset: 9
+(14 , 420910.0 , 123.79999999999997)->  bk5c |  bk6 |  bk9b |  bk10b |  bk11 |  bk14b |  bk21 |  bk14a |  bk15a |  bk15b |  bk16 |  bk8a |  bk8b |  bk19 | 
+(9 , 325654.0 , 110.00000000000001)->  bk1 |  bk5b |  bk5a |  bk2 |  bk3 |  bk9d |  bk9a |  bk12 |  bk13 | 
+(10 , 409885.0 , 111.59999999999997)->  bk4 |  bk17b |  bk18 |  bk20 |  bk17a |  bk9c |  bk10a |  bk10c |  bk7 |  bk14c | 
+Number Of TSV: 31
+Area Deviation 11.037%
+Power Debiation 5.353%
+Area Increase: 19.029%
+............................
+Offset: 9
+(11 , 425663.0 , 98.99999999999997)->  bk5c |  bk6 |  bk17b |  bk18 |  bk20 |  bk17a |  bk10b |  bk9d |  bk10c |  bk13 |  bk15b | 
+(12 , 416402.0 , 129.2)->  bk4 |  bk9c |  bk10a |  bk9a |  bk14b |  bk7 |  bk14c |  bk21 |  bk16 |  bk8a |  bk8b |  bk19 | 
+(10 , 314384.0 , 117.2)->  bk1 |  bk5b |  bk5a |  bk2 |  bk3 |  bk9b |  bk11 |  bk12 |  bk14a |  bk15a | 
+Number Of TSV: 31
+Area Deviation 0.13079
+Power Debiation 0.10783
+Area Increase: 20.427%
+............................
+Offset: 9
+(13 , 412580.0 , 103.79999999999997)->  bk4 |  bk17b |  bk9b |  bk10a |  bk9a |  bk14b |  bk7 |  bk14c |  bk15a |  bk16 |  bk8a |  bk8b |  bk19 | 
+(9 , 322910.0 , 109.19999999999999)->  bk5c |  bk6 |  bk9c |  bk9d |  bk11 |  bk13 |  bk21 |  bk14a |  bk15b | 
+(11 , 420959.0 , 132.39999999999998)->  bk1 |  bk5b |  bk5a |  bk2 |  bk3 |  bk18 |  bk20 |  bk17a |  bk10b |  bk10c |  bk12 | 
+Number Of TSV: 31
+Area Deviation 0.09203
+Power Debiation 0.10776
+Area Increase: 14.949%
+............................
+Offset: 9
+(10 , 384209.0 , 104.19999999999999)->  bk2 |  bk17b |  bk18 |  bk20 |  bk17a |  bk10b |  bk14b |  bk14c |  bk14a |  bk15b | 
+(12 , 367941.0 , 106.79999999999998)->  bk1 |  bk5b |  bk5a |  bk3 |  bk9c |  bk9b |  bk9d |  bk10c |  bk9a |  bk13 |  bk21 |  bk15a | 
+(11 , 404299.0 , 134.39999999999998)->  bk5c |  bk6 |  bk4 |  bk10a |  bk11 |  bk12 |  bk7 |  bk16 |  bk8a |  bk8b |  bk19 | 
+Number Of TSV: 31
+Area Deviation 0.04881
+Power Debiation 0.11869
+Area Increase: 14.949%
+............................

@@ -1,0 +1,18 @@
+Offset: 11
+(36 , 65078.0 , 304.1999999999999)->  sb21 |  sb34 |  sb42 |  sb66 |  sb12 |  sb29 |  sb69 |  sb64 |  sb8 |  sb99 |  sb59 |  sb7 |  sb9 |  sb63 |  sb17 |  sb53 |  sb2 |  sb68 |  sb72 |  sb96 |  sb33 |  sb16 |  sb31 |  sb49 |  sb80 |  sb40 |  sb71 |  sb19 |  sb4 |  sb61 |  sb89 |  sb37 |  sb55 |  sb83 |  sb91 |  sb92 | 
+(32 , 51996.0 , 262.99999999999983)->  sb0 |  sb97 |  sb81 |  sb88 |  sb39 |  sb47 |  sb3 |  sb58 |  sb11 |  sb22 |  sb43 |  sb6 |  sb28 |  sb52 |  sb23 |  sb48 |  sb60 |  sb51 |  sb94 |  sb62 |  sb46 |  sb15 |  sb93 |  sb36 |  sb41 |  sb85 |  sb10 |  sb24 |  sb90 |  sb45 |  sb30 |  sb20 | 
+(32 , 62427.0 , 301.5999999999999)->  sb26 |  sb79 |  sb18 |  sb74 |  sb65 |  sb32 |  sb84 |  sb82 |  sb87 |  sb95 |  sb56 |  sb13 |  sb77 |  sb54 |  sb78 |  sb98 |  sb14 |  sb76 |  sb35 |  sb50 |  sb67 |  sb1 |  sb73 |  sb44 |  sb70 |  sb25 |  sb38 |  sb5 |  sb86 |  sb57 |  sb75 |  sb27 | 
+Number Of TSV: 423
+Area Deviation 9.437%
+Power Debiation 6.505%
+Area Increase: 12.076%
+............................
+Offset: 11
+(37 , 66945.0 , 294.7999999999999)->  sb0 |  sb26 |  sb79 |  sb34 |  sb88 |  sb42 |  sb66 |  sb12 |  sb74 |  sb65 |  sb28 |  sb87 |  sb56 |  sb7 |  sb48 |  sb13 |  sb77 |  sb63 |  sb78 |  sb94 |  sb53 |  sb68 |  sb46 |  sb35 |  sb96 |  sb67 |  sb33 |  sb16 |  sb1 |  sb44 |  sb41 |  sb57 |  sb37 |  sb75 |  sb90 |  sb45 |  sb20 | 
+(32 , 57015.0 , 305.7999999999999)->  sb97 |  sb81 |  sb39 |  sb18 |  sb29 |  sb3 |  sb58 |  sb11 |  sb99 |  sb84 |  sb82 |  sb59 |  sb9 |  sb54 |  sb98 |  sb2 |  sb62 |  sb72 |  sb50 |  sb31 |  sb49 |  sb25 |  sb36 |  sb5 |  sb71 |  sb61 |  sb85 |  sb89 |  sb10 |  sb55 |  sb91 |  sb30 | 
+(31 , 55541.0 , 268.1999999999999)->  sb21 |  sb47 |  sb69 |  sb64 |  sb8 |  sb22 |  sb43 |  sb32 |  sb6 |  sb52 |  sb23 |  sb95 |  sb60 |  sb17 |  sb51 |  sb14 |  sb76 |  sb15 |  sb73 |  sb70 |  sb80 |  sb93 |  sb38 |  sb40 |  sb19 |  sb4 |  sb86 |  sb83 |  sb24 |  sb27 |  sb92 | 
+Number Of TSV: 423
+Area Deviation 8.464%
+Power Debiation 5.45%
+Area Increase: 13.929%
+............................

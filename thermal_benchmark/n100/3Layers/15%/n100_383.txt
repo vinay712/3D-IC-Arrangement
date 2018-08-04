@@ -1,0 +1,18 @@
+Offset: 9
+(31 , 56366.0 , 289.19999999999993)->  sb0 |  sb26 |  sb39 |  sb47 |  sb8 |  sb58 |  sb74 |  sb84 |  sb87 |  sb59 |  sb95 |  sb63 |  sb78 |  sb51 |  sb94 |  sb14 |  sb76 |  sb72 |  sb35 |  sb50 |  sb16 |  sb31 |  sb93 |  sb36 |  sb5 |  sb40 |  sb71 |  sb37 |  sb55 |  sb27 |  sb45 | 
+(33 , 55176.0 , 276.79999999999984)->  sb97 |  sb34 |  sb42 |  sb66 |  sb18 |  sb12 |  sb3 |  sb64 |  sb65 |  sb22 |  sb99 |  sb6 |  sb56 |  sb48 |  sb54 |  sb98 |  sb2 |  sb46 |  sb96 |  sb1 |  sb44 |  sb70 |  sb19 |  sb4 |  sb86 |  sb61 |  sb85 |  sb57 |  sb24 |  sb75 |  sb30 |  sb20 |  sb92 | 
+(36 , 67959.0 , 302.79999999999995)->  sb21 |  sb81 |  sb79 |  sb88 |  sb29 |  sb69 |  sb11 |  sb43 |  sb32 |  sb28 |  sb82 |  sb52 |  sb23 |  sb7 |  sb13 |  sb9 |  sb77 |  sb60 |  sb17 |  sb53 |  sb68 |  sb62 |  sb67 |  sb33 |  sb15 |  sb73 |  sb49 |  sb25 |  sb80 |  sb38 |  sb41 |  sb89 |  sb10 |  sb83 |  sb90 |  sb91 | 
+Number Of TSV: 383
+Area Deviation 9.637%
+Power Debiation 3.667%
+Area Increase: 19.897%
+............................
+Offset: 5
+(38 , 64350.0 , 315.8000000000001)->  sb97 |  sb26 |  sb81 |  sb79 |  sb34 |  sb66 |  sb18 |  sb47 |  sb69 |  sb3 |  sb64 |  sb74 |  sb11 |  sb99 |  sb6 |  sb28 |  sb52 |  sb23 |  sb59 |  sb95 |  sb56 |  sb9 |  sb63 |  sb51 |  sb53 |  sb68 |  sb62 |  sb46 |  sb50 |  sb16 |  sb31 |  sb70 |  sb38 |  sb71 |  sb4 |  sb85 |  sb10 |  sb45 | 
+(29 , 54352.0 , 251.39999999999984)->  sb0 |  sb12 |  sb8 |  sb58 |  sb22 |  sb32 |  sb84 |  sb87 |  sb48 |  sb13 |  sb77 |  sb78 |  sb98 |  sb94 |  sb14 |  sb2 |  sb72 |  sb96 |  sb73 |  sb25 |  sb80 |  sb93 |  sb40 |  sb89 |  sb24 |  sb75 |  sb90 |  sb30 |  sb20 | 
+(33 , 60799.0 , 301.59999999999997)->  sb21 |  sb88 |  sb42 |  sb39 |  sb29 |  sb65 |  sb43 |  sb82 |  sb7 |  sb54 |  sb60 |  sb17 |  sb76 |  sb35 |  sb67 |  sb33 |  sb15 |  sb1 |  sb44 |  sb49 |  sb36 |  sb5 |  sb41 |  sb19 |  sb86 |  sb61 |  sb57 |  sb37 |  sb55 |  sb83 |  sb27 |  sb91 |  sb92 | 
+Number Of TSV: 383
+Area Deviation 6.916%
+Power Debiation 9.54%
+Area Increase: 18.853%
+............................

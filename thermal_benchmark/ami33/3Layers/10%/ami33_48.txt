@@ -1,0 +1,36 @@
+Offset: 12
+(11 , 401996.0 , 120.19999999999997)->  bk5b |  bk4 |  bk3 |  bk18 |  bk9c |  bk9b |  bk10a |  bk10b |  bk9d |  bk9a |  bk13 | 
+(10 , 384062.0 , 110.6)->  bk1 |  bk5a |  bk6 |  bk17a |  bk20 |  bk11 |  bk12 |  bk14a |  bk15a |  bk16 | 
+(12 , 370391.0 , 114.59999999999998)->  bk2 |  bk5c |  bk17b |  bk10c |  bk14b |  bk7 |  bk14c |  bk21 |  bk15b |  bk8a |  bk8b |  bk19 | 
+Number Of TSV: 48
+Area Deviation 3.357%
+Power Debiation 3.42%
+Area Increase: 12.8%
+............................
+Offset: 16
+(10 , 364217.0 , 122.19999999999999)->  bk5b |  bk5a |  bk4 |  bk18 |  bk9c |  bk9b |  bk9d |  bk12 |  bk7 |  bk13 | 
+(12 , 431347.0 , 100.99999999999997)->  bk1 |  bk3 |  bk17b |  bk17a |  bk20 |  bk9a |  bk14b |  bk14a |  bk15a |  bk15b |  bk16 |  bk19 | 
+(11 , 360885.0 , 122.2)->  bk2 |  bk5c |  bk6 |  bk10a |  bk10b |  bk10c |  bk11 |  bk14c |  bk21 |  bk8a |  bk8b | 
+Number Of TSV: 48
+Area Deviation 8.42%
+Power Debiation 8.68%
+Area Increase: 11.898%
+............................
+Offset: 12
+(13 , 352800.0 , 110.39999999999998)->  bk5b |  bk5a |  bk6 |  bk9b |  bk10b |  bk10c |  bk11 |  bk7 |  bk13 |  bk14c |  bk21 |  bk15b |  bk16 | 
+(10 , 381612.0 , 105.6)->  bk4 |  bk17b |  bk9a |  bk12 |  bk14b |  bk14a |  bk15a |  bk8a |  bk8b |  bk19 | 
+(10 , 422037.0 , 129.39999999999998)->  bk1 |  bk2 |  bk5c |  bk3 |  bk18 |  bk17a |  bk20 |  bk9c |  bk10a |  bk9d | 
+Number Of TSV: 48
+Area Deviation 7.367%
+Power Debiation 8.926%
+Area Increase: 12.533%
+............................
+Offset: 12
+(11 , 327614.0 , 109.79999999999998)->  bk5b |  bk2 |  bk17b |  bk9b |  bk9d |  bk14b |  bk21 |  bk14a |  bk8a |  bk8b |  bk19 | 
+(11 , 419881.0 , 113.99999999999999)->  bk1 |  bk5c |  bk18 |  bk17a |  bk20 |  bk9c |  bk10c |  bk9a |  bk12 |  bk7 |  bk15a | 
+(11 , 408954.0 , 121.6)->  bk5a |  bk6 |  bk4 |  bk3 |  bk10a |  bk10b |  bk11 |  bk13 |  bk14c |  bk15b |  bk16 | 
+Number Of TSV: 48
+Area Deviation 0.08923
+Power Debiation 0.04242
+Area Increase: 8.923%
+............................

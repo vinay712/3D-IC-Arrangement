@@ -1,0 +1,24 @@
+Offset: 3
+(26 , 22614.0 , 179.19999999999993)->  sb43 |  sb63 |  sb182 |  sb92 |  sb32 |  sb187 |  sb20 |  sb191 |  sb3 |  sb1 |  sb31 |  sb57 |  sb39 |  sb9 |  sb132 |  sb79 |  sb68 |  sb62 |  sb11 |  sb151 |  sb70 |  sb152 |  sb10 |  sb58 |  sb156 |  sb53 | 
+(46 , 46674.0 , 406.00000000000006)->  sb84 |  sb38 |  sb74 |  sb72 |  sb51 |  sb37 |  sb88 |  sb183 |  sb21 |  sb145 |  sb116 |  sb106 |  sb91 |  sb179 |  sb67 |  sb163 |  sb194 |  sb52 |  sb83 |  sb171 |  sb141 |  sb121 |  sb71 |  sb173 |  sb184 |  sb13 |  sb2 |  sb192 |  sb8 |  sb149 |  sb94 |  sb164 |  sb25 |  sb36 |  sb69 |  sb80 |  sb196 |  sb54 |  sb78 |  sb178 |  sb176 |  sb139 |  sb190 |  sb186 |  sb61 |  sb174 | 
+(35 , 30330.0 , 328.9999999999999)->  sb45 |  sb22 |  sb97 |  sb35 |  sb134 |  sb143 |  sb157 |  sb90 |  sb82 |  sb46 |  sb188 |  sb59 |  sb64 |  sb193 |  sb195 |  sb18 |  sb144 |  sb26 |  sb107 |  sb110 |  sb27 |  sb66 |  sb6 |  sb34 |  sb98 |  sb133 |  sb148 |  sb166 |  sb75 |  sb12 |  sb29 |  sb40 |  sb119 |  sb120 |  sb109 | 
+(21 , 18290.0 , 190.99999999999991)->  sb0 |  sb102 |  sb28 |  sb135 |  sb81 |  sb130 |  sb180 |  sb113 |  sb96 |  sb198 |  sb95 |  sb122 |  sb153 |  sb5 |  sb50 |  sb16 |  sb87 |  sb123 |  sb124 |  sb30 |  sb89 | 
+(34 , 28666.0 , 285.9999999999998)->  sb42 |  sb105 |  sb117 |  sb140 |  sb167 |  sb55 |  sb118 |  sb185 |  sb128 |  sb49 |  sb24 |  sb159 |  sb33 |  sb127 |  sb129 |  sb104 |  sb73 |  sb103 |  sb4 |  sb165 |  sb131 |  sb172 |  sb56 |  sb175 |  sb100 |  sb142 |  sb168 |  sb199 |  sb146 |  sb19 |  sb137 |  sb99 |  sb47 |  sb169 | 
+(38 , 29122.0 , 405.60000000000014)->  sb101 |  sb112 |  sb197 |  sb85 |  sb14 |  sb60 |  sb170 |  sb177 |  sb65 |  sb48 |  sb126 |  sb7 |  sb23 |  sb161 |  sb138 |  sb15 |  sb17 |  sb114 |  sb115 |  sb154 |  sb77 |  sb160 |  sb162 |  sb147 |  sb181 |  sb93 |  sb125 |  sb86 |  sb136 |  sb111 |  sb150 |  sb108 |  sb44 |  sb41 |  sb76 |  sb158 |  sb189 |  sb155 | 
+Number Of TSV: 880
+Area Deviation 0.30201
+Power Debiation 0.30452
+Area Increase: 241.403%
+............................
+Offset: 3
+(33 , 30775.0 , 282.7999999999999)->  sb97 |  sb35 |  sb134 |  sb81 |  sb21 |  sb145 |  sb116 |  sb106 |  sb17 |  sb114 |  sb115 |  sb3 |  sb13 |  sb2 |  sb192 |  sb193 |  sb147 |  sb34 |  sb5 |  sb103 |  sb9 |  sb80 |  sb199 |  sb196 |  sb19 |  sb99 |  sb16 |  sb78 |  sb108 |  sb10 |  sb58 |  sb76 |  sb89 | 
+(42 , 42129.0 , 396.8)->  sb0 |  sb102 |  sb84 |  sb38 |  sb101 |  sb197 |  sb85 |  sb14 |  sb60 |  sb135 |  sb187 |  sb126 |  sb7 |  sb23 |  sb161 |  sb138 |  sb67 |  sb163 |  sb194 |  sb46 |  sb20 |  sb113 |  sb121 |  sb71 |  sb96 |  sb64 |  sb154 |  sb77 |  sb8 |  sb149 |  sb94 |  sb127 |  sb25 |  sb39 |  sb69 |  sb11 |  sb44 |  sb139 |  sb190 |  sb158 |  sb189 |  sb155 | 
+(21 , 17325.0 , 190.59999999999994)->  sb51 |  sb37 |  sb105 |  sb117 |  sb88 |  sb183 |  sb143 |  sb157 |  sb63 |  sb65 |  sb48 |  sb185 |  sb128 |  sb1 |  sb104 |  sb181 |  sb86 |  sb12 |  sb29 |  sb53 |  sb30 | 
+(44 , 37912.0 , 365.59999999999997)->  sb72 |  sb112 |  sb182 |  sb92 |  sb32 |  sb82 |  sb91 |  sb179 |  sb167 |  sb171 |  sb141 |  sb59 |  sb191 |  sb198 |  sb95 |  sb195 |  sb18 |  sb159 |  sb33 |  sb57 |  sb144 |  sb26 |  sb107 |  sb110 |  sb27 |  sb132 |  sb79 |  sb151 |  sb133 |  sb100 |  sb142 |  sb50 |  sb146 |  sb93 |  sb125 |  sb150 |  sb178 |  sb87 |  sb152 |  sb120 |  sb41 |  sb123 |  sb186 |  sb61 | 
+(28 , 22918.0 , 267.99999999999983)->  sb28 |  sb170 |  sb177 |  sb130 |  sb52 |  sb83 |  sb180 |  sb188 |  sb55 |  sb173 |  sb49 |  sb122 |  sb153 |  sb31 |  sb24 |  sb36 |  sb4 |  sb165 |  sb98 |  sb131 |  sb172 |  sb168 |  sb75 |  sb137 |  sb176 |  sb169 |  sb174 |  sb124 | 
+(32 , 24637.0 , 292.99999999999994)->  sb45 |  sb22 |  sb74 |  sb42 |  sb43 |  sb140 |  sb90 |  sb15 |  sb118 |  sb184 |  sb164 |  sb160 |  sb162 |  sb66 |  sb6 |  sb129 |  sb73 |  sb56 |  sb68 |  sb62 |  sb175 |  sb148 |  sb166 |  sb70 |  sb136 |  sb111 |  sb54 |  sb40 |  sb119 |  sb47 |  sb109 |  sb156 | 
+Number Of TSV: 880
+Area Deviation 0.29469
+Power Debiation 0.22404
+Area Increase: 241.403%
+............................

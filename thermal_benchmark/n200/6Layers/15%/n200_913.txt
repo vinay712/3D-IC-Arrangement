@@ -1,0 +1,24 @@
+Offset: 4
+(35 , 29934.0 , 328.8)->  sb45 |  sb22 |  sb42 |  sb143 |  sb157 |  sb170 |  sb177 |  sb65 |  sb48 |  sb116 |  sb106 |  sb17 |  sb46 |  sb173 |  sb128 |  sb193 |  sb149 |  sb36 |  sb4 |  sb165 |  sb132 |  sb146 |  sb93 |  sb125 |  sb137 |  sb78 |  sb44 |  sb10 |  sb58 |  sb41 |  sb186 |  sb61 |  sb124 |  sb30 |  sb89 | 
+(31 , 29931.0 , 276.9999999999999)->  sb84 |  sb38 |  sb43 |  sb197 |  sb92 |  sb32 |  sb135 |  sb90 |  sb167 |  sb113 |  sb118 |  sb121 |  sb71 |  sb59 |  sb191 |  sb3 |  sb57 |  sb26 |  sb107 |  sb66 |  sb6 |  sb5 |  sb98 |  sb11 |  sb168 |  sb86 |  sb196 |  sb87 |  sb120 |  sb53 |  sb158 | 
+(32 , 24671.0 , 322.99999999999994)->  sb35 |  sb28 |  sb14 |  sb140 |  sb52 |  sb83 |  sb180 |  sb20 |  sb55 |  sb184 |  sb154 |  sb77 |  sb94 |  sb122 |  sb153 |  sb1 |  sb159 |  sb34 |  sb103 |  sb9 |  sb181 |  sb148 |  sb100 |  sb142 |  sb19 |  sb54 |  sb16 |  sb176 |  sb108 |  sb139 |  sb190 |  sb169 | 
+(36 , 31150.0 , 268.79999999999984)->  sb0 |  sb102 |  sb74 |  sb88 |  sb183 |  sb63 |  sb182 |  sb81 |  sb145 |  sb130 |  sb15 |  sb171 |  sb141 |  sb13 |  sb2 |  sb192 |  sb164 |  sb160 |  sb33 |  sb127 |  sb73 |  sb25 |  sb131 |  sb172 |  sb79 |  sb68 |  sb62 |  sb133 |  sb175 |  sb136 |  sb40 |  sb99 |  sb123 |  sb174 |  sb109 |  sb189 | 
+(26 , 26597.0 , 246.99999999999983)->  sb97 |  sb72 |  sb134 |  sb51 |  sb37 |  sb105 |  sb117 |  sb112 |  sb21 |  sb91 |  sb179 |  sb114 |  sb115 |  sb67 |  sb163 |  sb194 |  sb31 |  sb195 |  sb18 |  sb162 |  sb144 |  sb151 |  sb50 |  sb199 |  sb119 |  sb155 | 
+(40 , 33413.0 , 352.1999999999999)->  sb101 |  sb85 |  sb60 |  sb82 |  sb187 |  sb126 |  sb138 |  sb7 |  sb23 |  sb161 |  sb188 |  sb185 |  sb96 |  sb64 |  sb49 |  sb198 |  sb95 |  sb8 |  sb24 |  sb147 |  sb110 |  sb27 |  sb129 |  sb104 |  sb39 |  sb69 |  sb56 |  sb80 |  sb166 |  sb70 |  sb111 |  sb75 |  sb12 |  sb29 |  sb150 |  sb178 |  sb47 |  sb152 |  sb156 |  sb76 | 
+Number Of TSV: 913
+Area Deviation 9.846%
+Power Debiation 12.489%
+Area Increase: 238.545%
+............................
+Offset: 4
+(35 , 32119.0 , 273.5999999999998)->  sb0 |  sb102 |  sb51 |  sb37 |  sb143 |  sb157 |  sb90 |  sb91 |  sb179 |  sb23 |  sb161 |  sb167 |  sb13 |  sb2 |  sb154 |  sb77 |  sb162 |  sb159 |  sb144 |  sb110 |  sb27 |  sb103 |  sb9 |  sb68 |  sb62 |  sb86 |  sb137 |  sb150 |  sb87 |  sb176 |  sb186 |  sb61 |  sb158 |  sb30 |  sb89 | 
+(34 , 30720.0 , 307.1999999999999)->  sb101 |  sb45 |  sb22 |  sb72 |  sb7 |  sb52 |  sb83 |  sb121 |  sb71 |  sb59 |  sb96 |  sb31 |  sb66 |  sb6 |  sb34 |  sb4 |  sb165 |  sb175 |  sb100 |  sb142 |  sb50 |  sb168 |  sb146 |  sb125 |  sb70 |  sb111 |  sb12 |  sb29 |  sb47 |  sb152 |  sb10 |  sb58 |  sb76 |  sb155 | 
+(29 , 26322.0 , 276.1999999999999)->  sb43 |  sb105 |  sb117 |  sb197 |  sb14 |  sb140 |  sb92 |  sb32 |  sb135 |  sb21 |  sb145 |  sb116 |  sb106 |  sb15 |  sb141 |  sb55 |  sb185 |  sb191 |  sb49 |  sb184 |  sb5 |  sb36 |  sb98 |  sb136 |  sb19 |  sb40 |  sb174 |  sb109 |  sb53 | 
+(30 , 27537.0 , 326.4000000000001)->  sb84 |  sb38 |  sb97 |  sb74 |  sb35 |  sb134 |  sb28 |  sb85 |  sb126 |  sb138 |  sb17 |  sb188 |  sb171 |  sb20 |  sb113 |  sb64 |  sb128 |  sb198 |  sb95 |  sb149 |  sb127 |  sb132 |  sb11 |  sb151 |  sb148 |  sb93 |  sb196 |  sb139 |  sb190 |  sb156 | 
+(38 , 32822.0 , 334.39999999999986)->  sb42 |  sb88 |  sb183 |  sb63 |  sb112 |  sb60 |  sb170 |  sb177 |  sb65 |  sb48 |  sb114 |  sb115 |  sb163 |  sb194 |  sb118 |  sb3 |  sb8 |  sb94 |  sb122 |  sb153 |  sb1 |  sb195 |  sb18 |  sb33 |  sb57 |  sb129 |  sb73 |  sb131 |  sb172 |  sb69 |  sb199 |  sb166 |  sb75 |  sb16 |  sb44 |  sb41 |  sb123 |  sb169 | 
+(34 , 26176.0 , 278.9999999999999)->  sb182 |  sb81 |  sb130 |  sb82 |  sb187 |  sb67 |  sb46 |  sb180 |  sb173 |  sb192 |  sb193 |  sb24 |  sb164 |  sb160 |  sb147 |  sb26 |  sb107 |  sb104 |  sb25 |  sb39 |  sb79 |  sb181 |  sb56 |  sb80 |  sb133 |  sb54 |  sb99 |  sb119 |  sb78 |  sb178 |  sb108 |  sb120 |  sb124 |  sb189 | 
+Number Of TSV: 913
+Area Deviation 0.09259
+Power Debiation 0.08219
+Area Increase: 241.403%
+............................

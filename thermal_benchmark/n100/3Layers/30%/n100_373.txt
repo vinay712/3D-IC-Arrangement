@@ -1,0 +1,18 @@
+Offset: 5
+(36 , 56156.0 , 304.80000000000007)->  sb0 |  sb97 |  sb26 |  sb21 |  sb81 |  sb79 |  sb34 |  sb47 |  sb74 |  sb82 |  sb87 |  sb52 |  sb23 |  sb95 |  sb48 |  sb13 |  sb9 |  sb60 |  sb78 |  sb51 |  sb53 |  sb46 |  sb50 |  sb67 |  sb49 |  sb70 |  sb40 |  sb86 |  sb61 |  sb89 |  sb57 |  sb37 |  sb75 |  sb90 |  sb45 |  sb30 | 
+(32 , 63914.0 , 308.7999999999999)->  sb88 |  sb42 |  sb39 |  sb66 |  sb18 |  sb12 |  sb29 |  sb69 |  sb11 |  sb43 |  sb28 |  sb56 |  sb77 |  sb54 |  sb98 |  sb94 |  sb14 |  sb76 |  sb2 |  sb68 |  sb62 |  sb72 |  sb31 |  sb1 |  sb73 |  sb25 |  sb80 |  sb93 |  sb19 |  sb4 |  sb85 |  sb92 | 
+(32 , 59431.0 , 255.19999999999982)->  sb3 |  sb64 |  sb8 |  sb58 |  sb65 |  sb22 |  sb32 |  sb99 |  sb6 |  sb84 |  sb59 |  sb7 |  sb63 |  sb17 |  sb35 |  sb96 |  sb33 |  sb16 |  sb15 |  sb44 |  sb38 |  sb36 |  sb5 |  sb71 |  sb41 |  sb10 |  sb55 |  sb83 |  sb24 |  sb27 |  sb91 |  sb20 | 
+Number Of TSV: 373
+Area Deviation 5.315%
+Power Debiation 8.418%
+Area Increase: 34.618%
+............................
+Offset: 4
+(31 , 59275.0 , 268.99999999999983)->  sb0 |  sb79 |  sb42 |  sb39 |  sb69 |  sb65 |  sb11 |  sb32 |  sb28 |  sb84 |  sb52 |  sb59 |  sb63 |  sb53 |  sb68 |  sb62 |  sb72 |  sb46 |  sb33 |  sb15 |  sb44 |  sb49 |  sb93 |  sb38 |  sb4 |  sb57 |  sb37 |  sb24 |  sb45 |  sb91 |  sb20 | 
+(30 , 51822.0 , 279.5999999999999)->  sb97 |  sb26 |  sb21 |  sb34 |  sb64 |  sb8 |  sb58 |  sb74 |  sb43 |  sb95 |  sb56 |  sb7 |  sb48 |  sb13 |  sb9 |  sb78 |  sb98 |  sb51 |  sb2 |  sb96 |  sb16 |  sb70 |  sb25 |  sb36 |  sb5 |  sb41 |  sb85 |  sb89 |  sb83 |  sb27 | 
+(39 , 68404.0 , 320.2)->  sb81 |  sb88 |  sb66 |  sb47 |  sb18 |  sb12 |  sb29 |  sb3 |  sb22 |  sb99 |  sb6 |  sb82 |  sb87 |  sb23 |  sb77 |  sb54 |  sb60 |  sb17 |  sb94 |  sb14 |  sb76 |  sb35 |  sb50 |  sb67 |  sb31 |  sb1 |  sb73 |  sb80 |  sb40 |  sb71 |  sb19 |  sb86 |  sb61 |  sb10 |  sb55 |  sb75 |  sb90 |  sb30 |  sb92 | 
+Number Of TSV: 373
+Area Deviation 0.14324
+Power Debiation 0.07619
+Area Increase: 27.666%
+............................

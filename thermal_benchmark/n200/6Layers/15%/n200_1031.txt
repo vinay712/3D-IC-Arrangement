@@ -1,0 +1,12 @@
+Offset: 11
+(26 , 27588.0 , 273.19999999999993)->  sb84 |  sb38 |  sb72 |  sb43 |  sb88 |  sb63 |  sb85 |  sb14 |  sb65 |  sb90 |  sb21 |  sb161 |  sb59 |  sb96 |  sb94 |  sb110 |  sb127 |  sb9 |  sb100 |  sb199 |  sb70 |  sb75 |  sb12 |  sb119 |  sb139 |  sb190 | 
+(34 , 29590.0 , 309.39999999999986)->  sb101 |  sb42 |  sb134 |  sb157 |  sb197 |  sb145 |  sb23 |  sb15 |  sb46 |  sb167 |  sb198 |  sb122 |  sb31 |  sb18 |  sb164 |  sb57 |  sb144 |  sb26 |  sb107 |  sb5 |  sb103 |  sb131 |  sb56 |  sb68 |  sb151 |  sb93 |  sb136 |  sb47 |  sb152 |  sb120 |  sb44 |  sb169 |  sb109 |  sb30 | 
+(34 , 29283.0 , 296.3999999999999)->  sb0 |  sb102 |  sb37 |  sb143 |  sb112 |  sb60 |  sb140 |  sb32 |  sb135 |  sb91 |  sb179 |  sb17 |  sb52 |  sb83 |  sb180 |  sb141 |  sb118 |  sb193 |  sb154 |  sb8 |  sb1 |  sb160 |  sb159 |  sb6 |  sb165 |  sb69 |  sb168 |  sb166 |  sb125 |  sb54 |  sb40 |  sb150 |  sb123 |  sb189 | 
+(38 , 34391.0 , 345.99999999999994)->  sb45 |  sb22 |  sb105 |  sb117 |  sb92 |  sb48 |  sb187 |  sb138 |  sb115 |  sb67 |  sb163 |  sb194 |  sb171 |  sb55 |  sb121 |  sb71 |  sb185 |  sb3 |  sb128 |  sb95 |  sb13 |  sb2 |  sb192 |  sb4 |  sb172 |  sb39 |  sb175 |  sb50 |  sb111 |  sb19 |  sb29 |  sb99 |  sb87 |  sb108 |  sb186 |  sb76 |  sb155 |  sb89 | 
+(36 , 27453.0 , 264.3999999999999)->  sb97 |  sb74 |  sb183 |  sb182 |  sb81 |  sb116 |  sb106 |  sb82 |  sb114 |  sb188 |  sb20 |  sb113 |  sb173 |  sb64 |  sb184 |  sb77 |  sb153 |  sb24 |  sb147 |  sb27 |  sb104 |  sb34 |  sb132 |  sb79 |  sb62 |  sb80 |  sb133 |  sb148 |  sb146 |  sb137 |  sb78 |  sb178 |  sb10 |  sb41 |  sb156 |  sb53 | 
+(32 , 27391.0 , 307.39999999999986)->  sb35 |  sb51 |  sb28 |  sb170 |  sb177 |  sb130 |  sb126 |  sb7 |  sb191 |  sb49 |  sb149 |  sb195 |  sb162 |  sb33 |  sb66 |  sb129 |  sb73 |  sb25 |  sb36 |  sb98 |  sb181 |  sb11 |  sb142 |  sb86 |  sb196 |  sb16 |  sb176 |  sb58 |  sb61 |  sb174 |  sb124 |  sb158 | 
+Number Of TSV: 1031
+Area Deviation 0.08364
+Power Debiation 0.08894
+Area Increase: 241.403%
+............................
